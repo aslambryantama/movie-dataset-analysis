@@ -2,7 +2,9 @@
 
 ## Previous Step (Cleaning & Transform Data)
 
-Full Transformation Guide : [aslambryantama/data-cleaning-transformation-movies-dataset](https://www.kaggle.com/code/aslambryantama/data-cleaning-transformation-movies-dataset)
+**Full Transformation Guide :** [aslambryantama/data-cleaning-transformation-movies-dataset](https://www.kaggle.com/code/aslambryantama/data-cleaning-transformation-movies-dataset)
+
+**Full Analysis Report :** [Movie Dataset Analysis Notebook](analysis.ipynb)
 
 ## Project Description
 This analysis project takes a deep dive into Movie Dataset to uncover interesting trends and insights. We used datasets from [here](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset) provided free from TMDB API, with this dataset we do analysis to get a comprehensive understanding of the movie industry. 
@@ -23,7 +25,7 @@ The datasets include information such as movie titles, release dates, budgets, b
 
 We used various data visualization techniques to illustrate the insights we uncovered. Our findings demonstrate a strong correlation between budget, release date, and box-office results, and reveal some of the most popular genres and ratings. 
 
-For full analysis you can check our notebook [here](analysis.ipynb)
+For full analysis you can check our notebook **[here]**(analysis.ipynb)
 
 ## Dataset
 
