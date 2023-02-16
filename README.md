@@ -25,7 +25,7 @@ The datasets include information such as movie titles, release dates, budgets, b
 
 We used various data visualization techniques to illustrate the insights we uncovered. Our findings demonstrate a strong correlation between budget, release date, and box-office results, and reveal some of the most popular genres and ratings. 
 
-For full analysis you can check our notebook **[here]**(analysis.ipynb)
+**For full analysis you can check my notebook [here]**(analysis.ipynb)
 
 ## Dataset
 
